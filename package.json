@@ -1,0 +1,14 @@
+{
+    "name": "sheets",
+    "version": "1.0.0",
+    "main": "Sheets.py",
+    "scripts": {
+        "start": "python Sheets.py"
+    },
+    "dependencies": {
+        "axios": "^1.7.9",
+        "cors": "^2.8.5",
+        "express": "^4.17.1",
+        "pg": "^8.7.3"
+    }
+}
