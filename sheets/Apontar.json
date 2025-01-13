@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "beltrame-440001",
+  "private_key_id": "c4d8fd396ab271526f9a5f0b1b0ae3ccaaa0b9a6",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDKGaNbollm3rlH\n7tljYMnye5A411DN9ALXrnErxWKLOT4oaBi3WXCG08jSzzC1/h1iUE5uv0Y+932I\nhecYYq9ZEp/CblInyqCVlX7U01dvh0zL6+Db0xXAi8LDsiEhYMrrAOl2H8oXD4nz\nHF2p7EfbVpd/CILtxjdx2nZ9CLOJp3jP0mLBykjsgqv4Uhbis0QyNov7faSsEdwq\nA92a6UlPiQXMVRyW1KugaVKdbU5ufnRKsnUszqHLK8pd+13GWhZ8v2ILmQ926yYh\nFWqc4QQnD7hJAjdfi6bRYy+4YLykyLj6AR1hyNxK9QnP4TQPULEIzuCXgK6hgFJ0\nsusb61UFAgMBAAECggEAUJSBXE9yiwAh6urydVvJmWun+Ons13lDyuBMUlH8tRsp\nS+4ZcL1yDugRafBfcSj1aVYwt5p/NSrzvAP7vO7YEFFLLrhS/HefqJS3Qb9UXO0a\n8zHE8ZEL2r4+9U0oRYk0zxeJfmY1axVwgOTd+ZrymaNAe0+W+JwwTi53UOovv6G3\nrxRYVN4t4SNo5/JhEbaW+PFvkZCex4j88rtbxZtZM1PQVKNc37smhOAnrpeykAL2\nVo463bnjjeBVpyt+AWoB0wByftqQpk8qPfhYzEUFkrxuiOQAWjVYHkxTbNDMtOgW\nyWDID57dUZ4MYVF9XEWJdI6VZMw7X7cCUBdz5HGHPwKBgQDoKHdWkU3nMy1Ysmd7\nux0h6CrKclMvszxOMLN6cE4UowEf/flMLDN10MCtOUKZ3LN4U7NoNJYcawTHfGkN\nec7pO46jqMMM/QB4hcVfe/dOs3+/mk2JExM/fF35DyTPd/GqJdcaGpXskEBdUUsx\nSmkBM0gNo1vqcRAt1bYP6+TRrwKBgQDe2u+8vRtSFHjGdSZXzy1MrjJK1KeV4ilP\nI4f18LM10sh0DccKve7nF5im5Ictco9U9x97/UsKGPu6WCDWotha5M/gRpm5UstW\nTLDnUcgzI6X7ij22t5fumP4LesAHWwZo5IoCVWuGPtMBWjJFWg4lx22s+NIIuXl2\n8G6sO0/1iwKBgQCgOs2iwcayu2+guAEUNKB2tnZSI3Wmhl4o2RQGfVxmgdpU6kUV\nfaxGtD1HUS3WY6y6b4pzcVfpZTN3OzaGRnu4HZLlAaUdYcDhbfI7ZKPbfae95hF9\nedzfBEcXjowpZO82L8e2DINNMoI55dGvw1uVqH8iao0V0dMIz2dItdbHoQKBgHSZ\n9Om5wDu3/mFIFmHHQppmYmYI0g54IMkJfC/QWtQEj2E5fDVAn2lGTVa1J4097YS1\nMEH9i2+jFsKvLa9f0Pft1F4yUmhGy6FByyWdArTPKB9ue0/Iy7PJVNLIzQSMOdRU\nD2mdK/83i8ufV8I1lkVqDRZ9sddixAzZS+7Nsc51AoGBAKee3TNY3nrDSmIXMHDU\nTTZ+NwlpXMmA7xVYtZhDLbCjE6667Ka5nj08R6mnf9PRT9Nnvd12MYWfeqMrdthP\nuJyFtcX9e3cnWJl3RCKhA1cSsLoJ+XWntQxChLaNL3XOn1E6dzuyAcUAyf30M/o2\nPfkVZTeazQwyMMm7frHlByui\n-----END PRIVATE KEY-----\n",
+  "client_email": "instituto@beltrame-440001.iam.gserviceaccount.com",
+  "client_id": "107552963942589965536",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/instituto%40beltrame-440001.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
